@@ -3,7 +3,7 @@
 - 🚀 Computer engineer graduate.
 - 📔 Passion for learning, research and cybersecurity!
 - 🐧 Freedom fighter!
-- 💪 I use arch btw (or at least did for 5 minutes)
+- 💪 I use arch btw
 
 ## 🎯 Github Goals 🎯
 
