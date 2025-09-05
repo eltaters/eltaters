@@ -83,4 +83,4 @@ A series of skills I've acquired along the years, ordered by [SHA256 hash value]
 
 ## 🧮 My Github Stats 🧮
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TomasDanielExpositoTorre&show_icons=true&theme=github_dark&hide_border=true" alt="github stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eltaters&show_icons=true&theme=github_dark&hide_border=true" alt="github stats" />
