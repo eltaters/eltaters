@@ -83,4 +83,5 @@ A series of skills I've acquired along the years, ordered by [SHA256 hash value]
 
 ## 🧮 My Github Stats 🧮
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eltaters&show_icons=true&theme=github_dark&hide_border=true" alt="github stats" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltaters&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eltaters&theme=nord_dark)
