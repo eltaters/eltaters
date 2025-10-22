@@ -83,18 +83,4 @@ A series of skills I've acquired along the years, ordered by [SHA256 hash value]
 
 ## 🧮 My Github Stats 🧮
 
-<div style="
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 1rem;
-">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltaters&theme=nord_dark"
-    style="height: 250px; width: 60%;  object-fit: contain;"
-  >
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eltaters&theme=nord_dark"
-    style="height: 250px; width: 30%; object-fit: contain;"
-  >
-</div>
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltaters&theme=nord_dark" alt="github stats" />
