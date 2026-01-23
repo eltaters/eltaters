@@ -1,13 +1,10 @@
 # Hello there! I'm Tommy 👋
-
-- 🚀 Computer engineer graduate.
-- 📔 Passion for learning, research and cybersecurity!
-- 🐧 Freedom fighter!
-- 💪 I use arch btw
-
-## 🎯 Github Goals 🎯
-
-- 📕 Document my private repositories to turn them into educational tools.
+<p>
+<img alt="arch-btw" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+<img alt="nvim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
+<img alt="tmux" src="https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F" />
+</p>
+The computer engineer with a penchant for TTRPGs, cybersecurity, open source software and home-servers.
 
 ## 🖥️ My Tech Stack 🖥️
 
@@ -62,25 +59,3 @@ A series of skills I've acquired along the years, ordered by [SHA256 hash value]
   <img alt="nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img alt="keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
 </p>
-
-### 🧪 Self-Hosting Journey 🧪
-
-<p>
-  <img alt="kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img alt="pihole" src="https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white" />
-  <img alt="bitwarden" src="https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white" />
-  <img alt="plex" src="https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white" />
-  <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="nextcloud" src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white" />
-  <img alt="arch-btw" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img alt="proxmox" src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
-  <img alt="ovreleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
-  <img alt="wireguard" src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white" />
-  <img alt="code-server" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-</p>
-
-## 🧮 My Github Stats 🧮
-
-<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltaters&theme=github_dark" alt="github stats" />
